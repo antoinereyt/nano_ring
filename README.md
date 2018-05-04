@@ -1,4 +1,4 @@
-nano_ring
+nano_ring [![Build Status](https://travis-ci.org/kbrw/nano_ring.svg?branch=master)](https://travis-ci.org/kbrw/nano_ring)
 =========
 
 NanoRing is a very very small Cluster management System in Elixir.
